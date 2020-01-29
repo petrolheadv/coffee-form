@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "form coffee", "form coffee\form coffee.vbproj", "{AF682D72-AB57-45E6-B5EA-62080EEF72CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF682D72-AB57-45E6-B5EA-62080EEF72CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF682D72-AB57-45E6-B5EA-62080EEF72CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF682D72-AB57-45E6-B5EA-62080EEF72CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF682D72-AB57-45E6-B5EA-62080EEF72CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7938336-9933-47A8-BE39-A2FCC57F4A48}
+	EndGlobalSection
+EndGlobal
